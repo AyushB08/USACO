@@ -1,4 +1,4 @@
-//
+//PROBLEM LINK: http://www.usaco.org/index.php?page=viewproblem2&cpid=712 
 import java.io.*;
 import java.util.*;
 
