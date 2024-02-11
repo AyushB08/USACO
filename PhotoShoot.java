@@ -1,7 +1,7 @@
 //PROBLEM LINK: http://www.usaco.org/index.php?page=viewproblem2&cpid=988
 import java.util.*;
 import java.io.*;
-public class Main {
+public class PhotoShoot {
     public static void main(String[] args) throws IOException{
         Scanner sc = new Scanner(new File("photo.in"));
         BufferedWriter bw = new BufferedWriter(new FileWriter("photo.out"));
