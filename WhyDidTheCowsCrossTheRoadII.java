@@ -1,9 +1,8 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class WhyDidTheCowsCrossTheRoadII {
     public static void main(String[] args) throws IOException{
         Scanner sc = new Scanner(new File("circlecross.in"));
         BufferedWriter bw = new BufferedWriter(new FileWriter("circlecross.out"));
