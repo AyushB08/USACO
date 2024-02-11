@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//PROBLEM LINK: http://www.usaco.org/index.php?page=viewproblem2&cpid=988
 import java.util.*;
 import java.io.*;
 public class Main {
